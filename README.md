@@ -1,1 +1,1 @@
-Homepage only of starbucks website replicated using html/css
+Mark up only of the homepage of the starbucks website replicated using html/css.
